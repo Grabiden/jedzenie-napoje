@@ -1,0 +1,13 @@
+{
+    "dish": "Pizza",
+    "calories": 285,
+    "is_vegetarian": false,
+    "price": 12.99,
+    "ingredients": ["dough", "tomato sauce", "cheese", "pepperoni"],
+    "beverages": {
+      "soft_drinks": ["Cola", "Lemonade", "Orange Soda"],
+      "alcoholic_drinks": ["Beer", "Wine"]
+    },
+    "spicy": true,
+    "serving_size": "1 slice"
+  }

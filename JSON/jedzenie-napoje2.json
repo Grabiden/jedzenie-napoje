@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Pizza Margherita",
+        "type": "danie główne",
+        "origin": "Włochy",
+        "description": "Klasyczna pizza z sosem pomidorowym, mozzarellą i świeżą bazylią.",
+        "price": 25.00
+    },
+    {
+        "name": "Sushi",
+        "type": "przystawka",
+        "origin": "Japonia",
+        "description": "Różne rodzaje rolek sushi z ryżem, rybą i warzywami, serwowane z wasabi i sosem sojowym.",
+        "price": 40.00
+    },
+    {
+        "name": "Tacos",
+        "type": "danie główne",
+        "origin": "Meksyk",
+        "description": "Kukurydziane placki wypełnione mięsem, serem, warzywami i różnymi dodatkami.",
+        "price": 20.00
+    },
+    {
+        "name": "Espresso",
+        "type": "napój",
+        "origin": "Włochy",
+        "description": "Silna kawa z intensywnym smakiem, podawana w małej filiżance.",
+        "price": 8.00
+    },
+    {
+        "name": "Pad Thai",
+        "type": "danie główne",
+        "origin": "Tajlandia",
+        "description": "Makaron ryżowy smażony z tofu, krewetkami, jajkiem i orzeszkami ziemnymi.",
+        "price": 35.00
+    },
+    {
+        "name": "Mango Lassi",
+        "type": "napój",
+        "origin": "Indie",
+        "description": "Orzeźwiający napój na bazie jogurtu z dodatkiem mango i przypraw.",
+        "price": 15.00
+    }
+]

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <item calories="600" vegetarian="no">
+        <name>Pasta Carbonara</name>
+        <type>Dan main</type>
+        <cuisine>Włoska</cuisine>
+        <price>25.00</price>
+    </item>
+    <item calories="700" vegetarian="no">
+        <name>Pizza Margherita</name>
+        <type>Dan main</type>
+        <cuisine>Włoska</cuisine>
+        <price>30.00</price>
+    </item>
+    <item calories="350" vegetarian="yes">
+        <name>Sałatka Ceaser</name>
+        <type>Przekąska</type>
+        <cuisine>Amerykańska</cuisine>
+        <price>20.00</price>
+    </item>
+    <item calories="500" vegetarian="no">
+        <name>Hamburger</name>
+        <type>Dan main</type>
+        <cuisine>Amerykańska</cuisine>
+        <price>28.00</price>
+    </item>
+    <item calories="5" vegetarian="yes">
+        <name>Kawa Espresso</name>
+        <type>Napoje</type>
+        <cuisine>Włoska</cuisine>
+        <price>10.00</price>
+    </item>
+    <item calories="2" vegetarian="yes">
+        <name>Herbata Ziołowa</name>
+        <type>Napoje</type>
+        <cuisine>Różnorodna</cuisine>
+        <price>8.00</price>
+    </item>
+</menu>
